@@ -2,18 +2,11 @@
 
 import csv
 
-def cleanTable(table):
-	table[0][0].replace('"', " ")
-	table[1][0].replace('"', " ")
-	return table
-
 table = []; column = 2; summ = 0; count = 0; avgL = []; rCountry = []
 
 with open('tabela.csv', 'r') as csvfile:
 	for line in csvfile:
 		table.append(line[:-1].split('","'))
-
-table = cleanTable(table)
 
 for column in range(2,14):
 	nullPoints = []
