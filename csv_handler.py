@@ -34,6 +34,11 @@ def search_id(string):
 		if Country[i][0] == string:
 			return i
 
+def trade_specChar(table):
+	for i in range(2, 12):
+		print(table[0][i].replace("&lt;", "< "))
+		table[0][i] = table[0][i].replace("&lt;", "< ")
+
 read_csv(table)
 format_table(table)
 
@@ -56,7 +61,7 @@ while i < len(table):
 # Laço resposável por criar lista de países e suas respectivas médias por coluna
 for i in range(0, len(Country)):
 	id_base = Country[i][1]; id_lmit = Country[i][2]
-	del Country[i][1]; del Country[i][1]
+	del Country[i][1]; #del Country[i][1]
 	for column in range(2, 14):
 		nullPoints = []
 		summ = 0; count = 0; j = 0
@@ -67,6 +72,7 @@ for i in range(0, len(Country)):
 				for z in range(len(lNum)):
 					aux = aux + float(lNum[z])
 				avg = aux / len(lNum)
+				table[id_base + j][column] = round(avg, 1)
 				summ = summ + avg
 				count = count + len(lNum)
 			if lNum[0] != '':
@@ -77,7 +83,7 @@ for i in range(0, len(Country)):
 			j = j + 1
 		if count == 0:
 			Country[i].append(0)
-			insert_number(0, table, nullPoints)
+			insert_number(0.0, table, nullPoints)
 			continue
 		else:
 			avg = summ / count
@@ -105,4 +111,5 @@ for i in range(len(rCountry)):
 		table.append([Country[idC][0], int(rCountry[i][2]) + j, Country[idC][1], Country[idC][2], Country[idC][3], Country[idC][4], Country[idC][6], Country[idC][6], Country[idC][7], Country[idC][8], Country[idC][9], Country[idC][10], Country[idC][11], Country[idC][12]])
 
 table.sort(key=lambda x : x[0])
+trade_specChar(table)
 write_csv(table)
