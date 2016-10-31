@@ -36,7 +36,6 @@ def search_id(string):
 
 def trade_specChar(table):
 	for i in range(2, 12):
-		print(table[0][i].replace("&lt;", "< "))
 		table[0][i] = table[0][i].replace("&lt;", "< ")
 
 read_csv(table)
@@ -61,7 +60,7 @@ while i < len(table):
 # Laço resposável por criar lista de países e suas respectivas médias por coluna
 for i in range(0, len(Country)):
 	id_base = Country[i][1]; id_lmit = Country[i][2]
-	del Country[i][1]; #del Country[i][1]
+	del Country[i][1]; del Country[i][1]
 	for column in range(2, 14):
 		nullPoints = []
 		summ = 0; count = 0; j = 0
@@ -72,7 +71,7 @@ for i in range(0, len(Country)):
 				for z in range(len(lNum)):
 					aux = aux + float(lNum[z])
 				avg = aux / len(lNum)
-				table[id_base + j][column] = round(avg, 1)
+				table[id_base + j][column] = float(round(avg, 1))
 				summ = summ + avg
 				count = count + len(lNum)
 			if lNum[0] != '':
@@ -83,7 +82,7 @@ for i in range(0, len(Country)):
 			j = j + 1
 		if count == 0:
 			Country[i].append(0)
-			insert_number(0.0, table, nullPoints)
+			insert_number(float(0.0), table, nullPoints)
 			continue
 		else:
 			avg = summ / count
