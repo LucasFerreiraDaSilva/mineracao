@@ -81,7 +81,7 @@ for i in range(0, len(Country)):
 				nullPoints.append([id_base + j, column])
 			j = j + 1
 		if count == 0:
-			Country[i].append(0)
+			Country[i].append(0.0)
 			insert_number(float(0.0), table, nullPoints)
 			continue
 		else:
