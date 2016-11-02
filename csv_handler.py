@@ -1,23 +1,24 @@
 #!/usr/bin/python3
 import csv
 
-table = []; column = 2; summ = 0; count = 0; Country = []; rCountry = []
+table = []; column = 2; summ = 0; count = 0; Country = []; rCountry = []; country_region = []
 
-def read_csv(table):
-	with open('tabela.csv', 'r') as csvfile:
+def read_csv(table, name_table):
+	with open(name_table, 'r') as csvfile:
 		for line in csvfile:
-			table.append(line[:-1].split('","'))
+			if name_table == "tabela.csv":
+				table.append(line[:-1].split('","'))
+			else:
+				table.append(line[:-1].split(','))
 
 def write_csv(table):
 	with open('new_csv.csv', 'w', newline='') as csvfile:
 	    spamwriter = csv.writer(csvfile, delimiter=",", escapechar=";")
-	    for i in range(len(table)):
-	    	if i == 0:
-	    		spamwriter.writerow([""] + [""] + table[i][2:14])
-	    	elif i == 1:
-	    		spamwriter.writerow(["Country"] + table[i][1:14])
-	    	else:
-	    		spamwriter.writerow(table[i])
+	    for i in range(1, len(table)):
+	    	if i == 1:
+	    		spamwriter.writerow(["Country"] + ["continent"] + ["regionUN"] + ["subregionUN"] + ["Year"] + ["Children aged < 5 years underweight (%) BOTH"] + ["Children aged < 5 years underweight (%) FEMALE"] + ["Children aged < 5 years underweight (%) MALE"])
+	    	elif len(table[i]) == 17:
+	    		spamwriter.writerow([table[i][0]] + [table[i][14]] + [table[i][15]] + [table[i][16]] + [table[i][1]] +  [table[i][5]] + [table[i][6]] + [table[i][7]])
 
 def format_table(table):
 	for i in range(2,len(table)):
@@ -35,10 +36,11 @@ def search_id(string):
 			return i
 
 def trade_specChar(table):
-	for i in range(2, 12):
+	for i in range(2, 14):
 		table[0][i] = table[0][i].replace("&lt;", "< ")
 
-read_csv(table)
+read_csv(table, "tabela.csv")
+read_csv(country_region, "paises.csv")
 format_table(table)
 
 # Laço responsável por definir os intervalos de cada país
@@ -83,11 +85,12 @@ for i in range(0, len(Country)):
 		if count == 0:
 			Country[i].append(0.0)
 			insert_number(float(0.0), table, nullPoints)
-			continue
+			#continue
 		else:
 			avg = summ / count
 			Country[i].append(round(avg, 1))
 			insert_number(avg, table, nullPoints)
+
 
 # Cria lista responsável pelos intervalos intra-país
 for i in range(2, 854):
@@ -108,6 +111,15 @@ for i in range(len(rCountry)):
 	for j in range(rCountry[i][1]):
 		idC = rCountry[i][4]
 		table.append([Country[idC][0], int(rCountry[i][2]) + j, Country[idC][1], Country[idC][2], Country[idC][3], Country[idC][4], Country[idC][6], Country[idC][6], Country[idC][7], Country[idC][8], Country[idC][9], Country[idC][10], Country[idC][11], Country[idC][12]])
+
+# Busca região do pais e anexa os dados à tabela Country
+
+for i in range(2, len(table)):
+	for j in range(len(country_region)):
+		if table[i][0] == country_region[j][0]:
+			table[i].append(country_region[j][1])
+			table[i].append(country_region[j][2])
+			table[i].append(country_region[j][3])
 
 table.sort(key=lambda x : x[0])
 trade_specChar(table)
