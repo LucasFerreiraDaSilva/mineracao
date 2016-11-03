@@ -1,44 +1,27 @@
-Country,continent,regionUN,subregionUN,Year,Children aged < 5 years underweight (%) BOTH,Children aged < 5 years underweight (%) FEMALE,Children aged < 5 years underweight (%) MALE
+Country,continent,regionUN,subregionUN,Year,Both Sexes,Female,Male
 Afghanistan,Asia,Asia,Southern Asia,2004,32.9,33.0,32.7
-Afghanistan,Asia,Asia,Southern Asia,1997,44.9,33.0,32.7
 Albania,Europe,Europe,Southern Europe,2005,6.6,5.8,7.3
 Albania,Europe,Europe,Southern Europe,2000,17.0,14.2,19.6
 Albania,Europe,Europe,Southern Europe,2008,9.2,11.2,11.2
 Albania,Europe,Europe,Southern Europe,2009,9.2,11.2,11.2
-Albania,Europe,Europe,Southern Europe,1996,9.2,11.2,11.2
-Albania,Europe,Europe,Southern Europe,1997,9.2,11.2,11.2
-Albania,Europe,Europe,Southern Europe,1998,9.2,11.2,11.2
 Algeria,Africa,Africa,Northern Africa,2005,3.7,3.7,3.7
 Algeria,Africa,Africa,Northern Africa,2002,11.1,9.6,12.7
 Algeria,Africa,Africa,Northern Africa,2000,5.4,5.6,5.3
-Algeria,Africa,Africa,Northern Africa,1995,11.3,10.4,12.2
-Algeria,Africa,Africa,Northern Africa,1992,9.2,8.6,9.8
-Algeria,Africa,Africa,Northern Africa,1987,8.0,6.8,7.8
 Algeria,Africa,Africa,Northern Africa,2012,7.4,7.8,7.8
 Algeria,Africa,Africa,Northern Africa,2013,7.4,7.8,7.8
 Angola,Africa,Africa,Middle Africa,2007,15.6,14.6,16.6
 Angola,Africa,Africa,Middle Africa,2001,27.5,25.6,29.4
-Angola,Africa,Africa,Middle Africa,1996,37.0,35.7,38.2
-Argentina,Americas,Latin America and the Caribbean,South America,1994,1.7,2.2,2.4
 Argentina,Americas,Latin America and the Caribbean,South America,2004,2.9,2.4,2.4
 Argentina,Americas,Latin America and the Caribbean,South America,2005,2.9,2.4,2.4
-Argentina,Americas,Latin America and the Caribbean,South America,1995,2.9,2.4,2.4
-Argentina,Americas,Latin America and the Caribbean,South America,1996,2.9,2.4,2.4
 Armenia,Asia,Asia,Western Asia,2010,5.3,5.9,4.7
 Armenia,Asia,Asia,Western Asia,2005,4.2,5.2,3.4
-Armenia,Asia,Asia,Western Asia,1998,2.7,2.6,2.8
 Armenia,Asia,Asia,Western Asia,2000,3.7,3.5,3.5
 Armenia,Asia,Asia,Western Asia,2001,3.7,3.5,3.5
 Australia,Oceania,Oceania,Australia and New Zealand,2007,0.2,0.0,0.0
-Australia,Oceania,Oceania,Australia and New Zealand,1995,0.1,0.0,0.0
-Australia,Oceania,Oceania,Australia and New Zealand,1996,0.1,0.0,0.0
 Azerbaijan,Asia,Asia,Western Asia,2013,4.9,4.9,4.9
 Azerbaijan,Asia,Asia,Western Asia,2006,8.4,8.0,8.7
 Azerbaijan,Asia,Asia,Western Asia,2001,5.9,9.3,8.9
 Azerbaijan,Asia,Asia,Western Asia,2000,14.0,15.0,13.2
-Azerbaijan,Asia,Asia,Western Asia,1996,8.8,9.3,8.9
-Bahrain,Asia,Asia,Western Asia,1995,7.6,0.0,0.0
-Bahrain,Asia,Asia,Western Asia,1989,6.3,0.0,0.0
 Bangladesh,Asia,Asia,Southern Asia,2014,32.6,46.4,45.8
 Bangladesh,Asia,Asia,Southern Asia,2013,35.1,36.9,33.4
 Bangladesh,Asia,Asia,Southern Asia,2011,36.8,38.8,34.8
@@ -50,54 +33,25 @@ Bangladesh,Asia,Asia,Southern Asia,2003,40.9,41.3,40.6
 Bangladesh,Asia,Asia,Southern Asia,2002,43.1,43.1,43.1
 Bangladesh,Asia,Asia,Southern Asia,2001,45.4,44.5,46.1
 Bangladesh,Asia,Asia,Southern Asia,2000,48.2,47.3,49.0
-Bangladesh,Asia,Asia,Southern Asia,1999,52.0,50.5,53.3
-Bangladesh,Asia,Asia,Southern Asia,1998,53.3,52.8,53.7
-Bangladesh,Asia,Asia,Southern Asia,1996,56.7,56.9,56.4
-Bangladesh,Asia,Asia,Southern Asia,1995,58.0,58.6,57.4
-Bangladesh,Asia,Asia,Southern Asia,1994,61.0,61.2,60.8
-Bangladesh,Asia,Asia,Southern Asia,1993,59.0,58.9,59.0
-Bangladesh,Asia,Asia,Southern Asia,1992,63.9,63.9,63.5
-Bangladesh,Asia,Asia,Southern Asia,1991,64.3,65.5,63.1
 Bangladesh,Asia,Asia,Southern Asia,2012,46.4,45.8,45.8
 Bangladesh,Asia,Asia,Southern Asia,2013,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1999,46.4,45.8,45.8
 Bangladesh,Asia,Asia,Southern Asia,2000,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1996,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1997,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1995,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1996,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1989,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1990,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1985,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1986,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1982,46.4,45.8,45.8
-Bangladesh,Asia,Asia,Southern Asia,1983,46.4,45.8,45.8
 Barbados,Americas,Latin America and the Caribbean,Caribbean,2012,3.5,4.7,2.5
-Barbados,Americas,Latin America and the Caribbean,Caribbean,1981,5.3,5.7,5.0
 Belarus,Europe,Europe,Eastern Europe,2005,1.3,1.0,1.5
 Belize,Americas,Latin America and the Caribbean,Central America,2011,6.2,6.6,5.7
 Belize,Americas,Latin America and the Caribbean,Central America,2006,4.9,5.7,4.0
-Belize,Americas,Latin America and the Caribbean,Central America,1992,5.4,6.2,4.8
 Benin,Africa,Africa,Western Africa,2014,18.0,20.3,25.4
 Benin,Africa,Africa,Western Africa,2006,20.2,17.6,22.7
 Benin,Africa,Africa,Western Africa,2001,21.5,19.6,23.5
-Benin,Africa,Africa,Western Africa,1996,26.8,23.8,29.9
 Bhutan,Asia,Asia,Southern Asia,2010,12.8,12.3,13.4
 Bhutan,Asia,Asia,Southern Asia,2008,10.4,10.3,10.5
-Bhutan,Asia,Asia,Southern Asia,1999,14.1,11.5,16.7
-Bhutan,Asia,Asia,Southern Asia,1986,17.8,13.5,13.5
-Bhutan,Asia,Asia,Southern Asia,1987,17.8,13.5,13.5
-Bhutan,Asia,Asia,Southern Asia,1988,17.8,13.5,13.5
 Bosnia and Herzegovina,Europe,Europe,Southern Europe,2006,1.6,1.0,2.2
 Bosnia and Herzegovina,Europe,Europe,Southern Europe,2000,4.2,3.3,5.1
 Bosnia and Herzegovina,Europe,Europe,Southern Europe,2011,2.4,3.0,3.0
 Bosnia and Herzegovina,Europe,Europe,Southern Europe,2012,2.4,3.0,3.0
 Botswana,Africa,Africa,Southern Africa,2000,10.7,11.0,10.3
-Botswana,Africa,Africa,Southern Africa,1996,15.1,10.6,11.2
 Botswana,Africa,Africa,Southern Africa,2007,12.3,11.2,11.2
 Botswana,Africa,Africa,Southern Africa,2008,12.3,11.2,11.2
-Brazil,Americas,Latin America and the Caribbean,South America,1996,4.5,4.2,4.8
-Brazil,Americas,Latin America and the Caribbean,South America,1989,5.3,5.2,5.3
 Brazil,Americas,Latin America and the Caribbean,South America,2006,3.9,4.2,4.2
 Brazil,Americas,Latin America and the Caribbean,South America,2007,3.9,4.2,4.2
 Brazil,Americas,Latin America and the Caribbean,South America,2002,3.9,4.2,4.2
@@ -108,19 +62,13 @@ Burkina Faso,Africa,Africa,Western Africa,2010,26.2,24.7,27.7
 Burkina Faso,Africa,Africa,Western Africa,2009,26.0,24.7,27.1
 Burkina Faso,Africa,Africa,Western Africa,2006,37.6,35.8,39.5
 Burkina Faso,Africa,Africa,Western Africa,2003,35.2,33.5,36.8
-Burkina Faso,Africa,Africa,Western Africa,1998,31.4,33.0,33.0
-Burkina Faso,Africa,Africa,Western Africa,1999,31.4,33.0,33.0
-Burkina Faso,Africa,Africa,Western Africa,1992,31.4,33.0,33.0
-Burkina Faso,Africa,Africa,Western Africa,1993,31.4,33.0,33.0
 Burundi,Africa,Africa,Eastern Africa,2005,35.2,30.9,34.5
 Burundi,Africa,Africa,Eastern Africa,2000,38.9,38.9,38.8
-Burundi,Africa,Africa,Eastern Africa,1987,30.2,27.8,32.6
 Burundi,Africa,Africa,Eastern Africa,2010,33.4,34.5,34.5
 Burundi,Africa,Africa,Eastern Africa,2011,33.4,34.5,34.5
 Cambodia,Asia,Asia,South-Eastern Asia,2014,23.9,32.4,34.9
 Cambodia,Asia,Asia,South-Eastern Asia,2008,28.8,29.2,28.4
 Cambodia,Asia,Asia,South-Eastern Asia,2000,39.5,38.6,40.5
-Cambodia,Asia,Asia,South-Eastern Asia,1996,42.6,38.2,47.0
 Cambodia,Asia,Asia,South-Eastern Asia,2010,32.0,34.9,34.9
 Cambodia,Asia,Asia,South-Eastern Asia,2011,32.0,34.9,34.9
 Cambodia,Asia,Asia,South-Eastern Asia,2005,32.0,34.9,34.9
@@ -129,25 +77,15 @@ Cameroon,Africa,Africa,Middle Africa,2014,14.8,15.6,17.5
 Cameroon,Africa,Africa,Middle Africa,2011,15.1,14.5,15.8
 Cameroon,Africa,Africa,Middle Africa,2006,16.6,14.3,18.9
 Cameroon,Africa,Africa,Middle Africa,2004,15.1,15.0,15.3
-Cameroon,Africa,Africa,Middle Africa,1998,17.8,15.7,20.1
-Cameroon,Africa,Africa,Middle Africa,1991,18.0,18.3,17.6
-Canada,Americas,Northern America,Northern America,1970,1.8,1.8,1.8
-Canada,Americas,Northern America,Northern America,1971,1.8,1.8,1.8
-Canada,Americas,Northern America,Northern America,1972,1.8,1.8,1.8
 Central African Republic,Africa,Africa,Middle Africa,2006,28.0,25.4,30.6
 Central African Republic,Africa,Africa,Middle Africa,2000,21.8,19.5,24.1
-Central African Republic,Africa,Africa,Middle Africa,1995,20.4,21.8,26.5
 Central African Republic,Africa,Africa,Middle Africa,2010,23.4,26.5,26.5
 Central African Republic,Africa,Africa,Middle Africa,2011,23.4,26.5,26.5
-Central African Republic,Africa,Africa,Middle Africa,1994,23.4,26.5,26.5
-Central African Republic,Africa,Africa,Middle Africa,1995,23.4,26.5,26.5
 Chad,Africa,Africa,Middle Africa,2010,30.3,28.2,32.5
 Chad,Africa,Africa,Middle Africa,2004,33.9,32.9,35.0
 Chad,Africa,Africa,Middle Africa,2000,29.4,28.3,30.4
 Chad,Africa,Africa,Middle Africa,2014,31.3,32.8,32.8
 Chad,Africa,Africa,Middle Africa,2015,31.3,32.8,32.8
-Chad,Africa,Africa,Middle Africa,1996,31.3,32.8,32.8
-Chad,Africa,Africa,Middle Africa,1997,31.3,32.8,32.8
 Chile,Americas,Latin America and the Caribbean,South America,2014,0.5,0.4,0.6
 Chile,Americas,Latin America and the Caribbean,South America,2013,0.5,0.4,0.6
 Chile,Americas,Latin America and the Caribbean,South America,2008,0.5,0.5,0.6
@@ -157,77 +95,26 @@ Chile,Americas,Latin America and the Caribbean,South America,2004,0.6,0.4,0.6
 Chile,Americas,Latin America and the Caribbean,South America,2003,0.6,0.4,0.6
 Chile,Americas,Latin America and the Caribbean,South America,2002,0.7,0.4,0.6
 Chile,Americas,Latin America and the Caribbean,South America,2001,0.7,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1999,0.7,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1998,0.7,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1996,0.7,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1995,0.8,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1994,0.8,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1986,2.2,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1984,1.4,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1983,1.0,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1982,1.0,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1981,1.1,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1980,1.3,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1979,1.6,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1978,1.9,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1977,2.6,0.4,0.6
-Chile,Americas,Latin America and the Caribbean,South America,1976,3.3,0.4,0.6
 China,Asia,Asia,Eastern Asia,2010,3.4,3.3,3.5
 China,Asia,Asia,Eastern Asia,2009,4.6,4.5,4.7
 China,Asia,Asia,Eastern Asia,2008,5.1,7.7,8.1
 China,Asia,Asia,Eastern Asia,2005,4.5,4.2,4.7
 China,Asia,Asia,Eastern Asia,2002,6.8,6.5,7.2
 China,Asia,Asia,Eastern Asia,2000,7.4,7.5,7.3
-China,Asia,Asia,Eastern Asia,1998,6.9,6.6,7.2
-China,Asia,Asia,Eastern Asia,1995,10.7,9.6,11.6
-China,Asia,Asia,Eastern Asia,1992,14.2,14.6,13.8
-China,Asia,Asia,Eastern Asia,1990,12.6,12.1,13.1
-China,Asia,Asia,Eastern Asia,1987,18.7,7.7,8.1
 Colombia,Americas,Latin America and the Caribbean,South America,2000,4.9,5.0,4.9
-Colombia,Americas,Latin America and the Caribbean,South America,1995,6.3,5.5,7.0
-Colombia,Americas,Latin America and the Caribbean,South America,1989,8.8,5.3,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1986,8.6,8.1,9.0
 Colombia,Americas,Latin America and the Caribbean,South America,2009,8.8,6.0,6.0
 Colombia,Americas,Latin America and the Caribbean,South America,2010,8.8,6.0,6.0
 Colombia,Americas,Latin America and the Caribbean,South America,2004,8.8,6.0,6.0
 Colombia,Americas,Latin America and the Caribbean,South America,2005,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1977,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1978,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1979,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1980,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1965,8.8,6.0,6.0
-Colombia,Americas,Latin America and the Caribbean,South America,1966,8.8,6.0,6.0
 Comoros,Africa,Africa,Eastern Africa,2012,16.9,17.0,16.8
 Comoros,Africa,Africa,Eastern Africa,2000,25.0,21.9,28.0
-Comoros,Africa,Africa,Eastern Africa,1996,22.3,18.6,25.7
-Comoros,Africa,Africa,Eastern Africa,1991,20.1,23.5,23.5
-Comoros,Africa,Africa,Eastern Africa,1992,20.1,23.5,23.5
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1996,4.5,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1994,1.9,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1993,2.0,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1992,2.0,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1991,2.2,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1990,2.5,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1989,2.4,1.8,0.6
-Costa Rica,Americas,Latin America and the Caribbean,Central America,1982,5.5,1.8,0.6
 Costa Rica,Americas,Latin America and the Caribbean,Central America,2008,2.7,0.6,0.6
 Costa Rica,Americas,Latin America and the Caribbean,Central America,2009,2.7,0.6,0.6
 Cote d'Ivoire,Africa,Africa,Western Africa,2007,29.4,28.4,30.3
 Cote d'Ivoire,Africa,Africa,Western Africa,2006,16.7,14.4,18.8
-Cote d'Ivoire,Africa,Africa,Western Africa,1994,20.9,18.0,23.7
-Cote d'Ivoire,Africa,Africa,Western Africa,1986,10.8,18.7,21.7
 Cote d'Ivoire,Africa,Africa,Western Africa,2011,18.6,21.7,21.7
 Cote d'Ivoire,Africa,Africa,Western Africa,2012,18.6,21.7,21.7
-Cote d'Ivoire,Africa,Africa,Western Africa,1998,18.6,21.7,21.7
-Cote d'Ivoire,Africa,Africa,Western Africa,1999,18.6,21.7,21.7
-Croatia,Europe,Europe,Southern Europe,1995,0.5,0.0,0.0
-Croatia,Europe,Europe,Southern Europe,1996,0.5,0.0,0.0
-Croatia,Europe,Europe,Southern Europe,1994,0.5,0.0,0.0
-Croatia,Europe,Europe,Southern Europe,1995,0.5,0.0,0.0
-Croatia,Europe,Europe,Southern Europe,1993,0.5,0.0,0.0
-Croatia,Europe,Europe,Southern Europe,1994,0.5,0.0,0.0
 Cuba,Americas,Latin America and the Caribbean,Caribbean,2000,3.4,0.0,0.0
-Czech Republic,Europe,Europe,Eastern Europe,1991,0.9,1.6,2.5
 Czech Republic,Europe,Europe,Eastern Europe,2001,1.5,2.5,2.5
 Czech Republic,Europe,Europe,Eastern Europe,2002,1.5,2.5,2.5
 Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,2012,15.2,15.0,15.5
@@ -235,29 +122,20 @@ Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,2009,18.8,18.8,18.8
 Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,2004,20.6,16.7,17.8
 Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,2002,17.8,16.2,19.2
 Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,2000,24.7,16.7,17.8
-Democratic People's Republic of Korea,Asia,Asia,Eastern Asia,1998,55.5,16.7,17.8
 Democratic Republic of the Congo,Africa,Africa,Middle Africa,2010,24.2,21.3,27.2
 Democratic Republic of the Congo,Africa,Africa,Middle Africa,2007,28.2,26.1,30.4
 Democratic Republic of the Congo,Africa,Africa,Middle Africa,2001,33.6,30.7,36.5
-Democratic Republic of the Congo,Africa,Africa,Middle Africa,1995,30.7,24.8,29.9
 Democratic Republic of the Congo,Africa,Africa,Middle Africa,2013,28.0,29.9,29.9
 Democratic Republic of the Congo,Africa,Africa,Middle Africa,2014,28.0,29.9,29.9
 Djibouti,Africa,Africa,Eastern Africa,2012,29.8,28.5,31.2
 Djibouti,Africa,Africa,Eastern Africa,2006,29.6,26.7,32.1
 Djibouti,Africa,Africa,Eastern Africa,2002,25.4,23.0,27.7
-Djibouti,Africa,Africa,Eastern Africa,1996,16.0,26.1,30.3
-Djibouti,Africa,Africa,Eastern Africa,1989,20.2,26.1,30.3
 Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,2013,4.0,4.1,3.9
 Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,2007,3.4,3.7,3.2
 Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,2006,4.6,4.8,6.0
 Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,2002,4.2,3.9,4.6
 Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,2000,3.5,2.9,4.0
-Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,1996,4.7,4.1,5.3
-Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,1991,8.4,7.5,9.3
-Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,1986,9.3,7.3,11.4
 Ecuador,Americas,Latin America and the Caribbean,South America,2004,6.2,6.0,6.5
-Ecuador,Americas,Latin America and the Caribbean,South America,1998,12.5,5.8,6.8
-Ecuador,Americas,Latin America and the Caribbean,South America,1986,14.5,5.8,6.8
 Ecuador,Americas,Latin America and the Caribbean,South America,2012,9.9,6.8,6.8
 Ecuador,Americas,Latin America and the Caribbean,South America,2013,9.9,6.8,6.8
 Egypt,Africa,Africa,Northern Africa,2014,7.0,7.3,7.7
@@ -265,53 +143,31 @@ Egypt,Africa,Africa,Northern Africa,2008,6.8,5.4,8.1
 Egypt,Africa,Africa,Northern Africa,2005,5.4,4.2,6.6
 Egypt,Africa,Africa,Northern Africa,2003,8.7,7.0,10.2
 Egypt,Africa,Africa,Northern Africa,2000,4.3,3.4,5.0
-Egypt,Africa,Africa,Northern Africa,1998,9.4,7.3,9.0
-Egypt,Africa,Africa,Northern Africa,1991,10.5,9.0,11.9
-Egypt,Africa,Africa,Northern Africa,1988,11.6,11.6,11.7
-Egypt,Africa,Africa,Northern Africa,1978,13.9,7.3,9.0
-Egypt,Africa,Africa,Northern Africa,1997,8.9,9.0,9.0
-Egypt,Africa,Africa,Northern Africa,1998,8.9,9.0,9.0
-Egypt,Africa,Africa,Northern Africa,1995,8.9,9.0,9.0
-Egypt,Africa,Africa,Northern Africa,1996,8.9,9.0,9.0
-Egypt,Africa,Africa,Northern Africa,1992,8.9,9.0,9.0
-Egypt,Africa,Africa,Northern Africa,1993,8.9,9.0,9.0
 El Salvador,Americas,Latin America and the Caribbean,Central America,2014,5.0,7.6,8.6
 El Salvador,Americas,Latin America and the Caribbean,Central America,2008,6.6,6.7,6.5
-El Salvador,Americas,Latin America and the Caribbean,Central America,1998,9.6,9.3,9.9
-El Salvador,Americas,Latin America and the Caribbean,Central America,1993,7.2,6.1,8.2
-El Salvador,Americas,Latin America and the Caribbean,Central America,1988,11.1,10.7,11.6
-El Salvador,Americas,Latin America and the Caribbean,Central America,1975,19.5,7.6,8.6
 El Salvador,Americas,Latin America and the Caribbean,Central America,2002,9.3,8.6,8.6
 El Salvador,Americas,Latin America and the Caribbean,Central America,2003,9.3,8.6,8.6
 Equatorial Guinea,Africa,Africa,Middle Africa,2010,5.6,5.2,5.9
 Equatorial Guinea,Africa,Africa,Middle Africa,2004,10.6,9.9,11.3
 Equatorial Guinea,Africa,Africa,Middle Africa,2000,15.7,14.6,16.8
-Equatorial Guinea,Africa,Africa,Middle Africa,1997,13.8,12.2,15.4
 Eritrea,Africa,Africa,Eastern Africa,2010,38.8,39.4,38.1
 Eritrea,Africa,Africa,Eastern Africa,2002,34.5,33.0,35.9
-Eritrea,Africa,Africa,Eastern Africa,1993,36.9,36.5,37.8
-Eritrea,Africa,Africa,Eastern Africa,1995,37.1,37.8,37.8
-Eritrea,Africa,Africa,Eastern Africa,1996,37.1,37.8,37.8
 Ethiopia,Africa,Africa,Eastern Africa,2014,25.2,25.7,24.8
 Ethiopia,Africa,Africa,Eastern Africa,2005,34.6,32.8,36.5
 Ethiopia,Africa,Africa,Eastern Africa,2000,42.0,39.6,44.4
-Ethiopia,Africa,Africa,Eastern Africa,1992,43.3,31.4,34.1
 Ethiopia,Africa,Africa,Eastern Africa,2010,34.9,34.1,34.1
 Ethiopia,Africa,Africa,Eastern Africa,2011,34.9,34.1,34.1
 Fiji,Oceania,Oceania,Melanesia,2004,5.3,5.7,4.9
-Fiji,Oceania,Oceania,Melanesia,1993,6.9,5.7,4.9
 Gabon,Africa,Africa,Middle Africa,2012,6.5,5.0,7.9
 Gabon,Africa,Africa,Middle Africa,2000,7.7,9.0,9.0
 Gabon,Africa,Africa,Middle Africa,2001,7.7,9.0,9.0
 Gambia,Africa,Africa,Western Africa,2013,16.4,15.5,17.3
 Gambia,Africa,Africa,Western Africa,2010,17.4,16.9,17.8
 Gambia,Africa,Africa,Western Africa,2000,15.4,14.3,16.5
-Gambia,Africa,Africa,Western Africa,1996,23.2,15.4,17.1
 Gambia,Africa,Africa,Western Africa,2005,17.6,17.1,17.1
 Gambia,Africa,Africa,Western Africa,2006,17.6,17.1,17.1
 Georgia,Asia,Asia,Western Asia,2009,1.1,1.0,1.3
 Georgia,Asia,Asia,Western Asia,2005,2.3,1.9,2.6
-Georgia,Asia,Asia,Western Asia,1999,2.7,1.4,2.0
 Germany,Europe,Europe,Western Europe,2003,1.1,0.9,0.9
 Germany,Europe,Europe,Western Europe,2004,1.1,0.9,0.9
 Germany,Europe,Europe,Western Europe,2005,1.1,0.9,0.9
@@ -321,35 +177,21 @@ Ghana,Africa,Africa,Western Africa,2011,13.4,11.3,15.4
 Ghana,Africa,Africa,Western Africa,2008,14.3,12.9,15.7
 Ghana,Africa,Africa,Western Africa,2006,13.9,12.5,15.2
 Ghana,Africa,Africa,Western Africa,2003,18.8,17.0,20.6
-Ghana,Africa,Africa,Western Africa,1988,24.1,23.4,24.8
-Ghana,Africa,Africa,Western Africa,1998,18.3,19.9,19.9
-Ghana,Africa,Africa,Western Africa,1999,18.3,19.9,19.9
-Ghana,Africa,Africa,Western Africa,1993,18.3,19.9,19.9
-Ghana,Africa,Africa,Western Africa,1994,18.3,19.9,19.9
-Ghana,Africa,Africa,Western Africa,1987,18.3,19.9,19.9
-Ghana,Africa,Africa,Western Africa,1988,18.3,19.9,19.9
 Greece,Europe,Europe,Southern Europe,2003,0.3,0.3,0.3
 Greece,Europe,Europe,Southern Europe,2004,0.3,0.3,0.3
 Guatemala,Americas,Latin America and the Caribbean,Central America,2002,17.7,17.5,18.0
 Guatemala,Americas,Latin America and the Caribbean,Central America,2000,19.6,17.8,19.8
-Guatemala,Americas,Latin America and the Caribbean,Central America,1995,21.7,21.1,22.3
-Guatemala,Americas,Latin America and the Caribbean,Central America,1987,27.8,26.6,29.0
 Guatemala,Americas,Latin America and the Caribbean,Central America,2014,19.0,19.8,19.8
 Guatemala,Americas,Latin America and the Caribbean,Central America,2015,19.0,19.8,19.8
 Guatemala,Americas,Latin America and the Caribbean,Central America,2008,19.0,19.8,19.8
 Guatemala,Americas,Latin America and the Caribbean,Central America,2009,19.0,19.8,19.8
-Guatemala,Americas,Latin America and the Caribbean,Central America,1998,19.0,19.8,19.8
-Guatemala,Americas,Latin America and the Caribbean,Central America,1999,19.0,19.8,19.8
 Guinea,Africa,Africa,Western Africa,2012,18.7,18.7,18.7
 Guinea,Africa,Africa,Western Africa,2005,22.5,20.6,24.4
 Guinea,Africa,Africa,Western Africa,2000,29.1,19.0,20.7
-Guinea,Africa,Africa,Western Africa,1999,21.2,21.0,21.3
 Guinea,Africa,Africa,Western Africa,2011,21.4,20.7,20.7
 Guinea,Africa,Africa,Western Africa,2012,21.4,20.7,20.7
 Guinea,Africa,Africa,Western Africa,2007,21.4,20.7,20.7
 Guinea,Africa,Africa,Western Africa,2008,21.4,20.7,20.7
-Guinea,Africa,Africa,Western Africa,1994,21.4,20.7,20.7
-Guinea,Africa,Africa,Western Africa,1995,21.4,20.7,20.7
 Guinea-Bissau,Africa,Africa,Western Africa,2014,17.0,18.1,18.9
 Guinea-Bissau,Africa,Africa,Western Africa,2010,18.1,17.1,19.1
 Guinea-Bissau,Africa,Africa,Western Africa,2008,16.6,17.0,16.2
@@ -358,59 +200,19 @@ Guinea-Bissau,Africa,Africa,Western Africa,2000,21.9,21.5,22.3
 Guyana,Americas,Latin America and the Caribbean,South America,2014,8.5,9.8,12.6
 Guyana,Americas,Latin America and the Caribbean,South America,2009,11.1,9.4,12.8
 Guyana,Americas,Latin America and the Caribbean,South America,2000,11.9,9.9,13.6
-Guyana,Americas,Latin America and the Caribbean,South America,1997,10.3,9.8,12.6
-Guyana,Americas,Latin America and the Caribbean,South America,1993,16.1,9.8,12.6
-Guyana,Americas,Latin America and the Caribbean,South America,1981,19.5,9.8,12.6
-Guyana,Americas,Latin America and the Caribbean,South America,1971,22.0,9.8,12.6
 Guyana,Americas,Latin America and the Caribbean,South America,2006,13.8,12.6,12.6
 Guyana,Americas,Latin America and the Caribbean,South America,2007,13.8,12.6,12.6
 Haiti,Americas,Latin America and the Caribbean,Caribbean,2012,11.6,10.7,12.5
 Haiti,Americas,Latin America and the Caribbean,Caribbean,2000,13.9,12.2,15.7
-Haiti,Americas,Latin America and the Caribbean,Caribbean,1990,23.7,15.8,18.5
-Haiti,Americas,Latin America and the Caribbean,Caribbean,1978,33.5,15.8,18.5
 Haiti,Americas,Latin America and the Caribbean,Caribbean,2005,20.9,18.5,18.5
 Haiti,Americas,Latin America and the Caribbean,Caribbean,2006,20.9,18.5,18.5
-Haiti,Americas,Latin America and the Caribbean,Caribbean,1994,20.9,18.5,18.5
-Haiti,Americas,Latin America and the Caribbean,Caribbean,1995,20.9,18.5,18.5
 Honduras,Americas,Latin America and the Caribbean,Central America,2001,12.5,11.9,13.1
-Honduras,Americas,Latin America and the Caribbean,Central America,1996,19.2,20.1,18.3
-Honduras,Americas,Latin America and the Caribbean,Central America,1987,18.1,11.7,12.0
 Honduras,Americas,Latin America and the Caribbean,Central America,2011,13.9,12.0,12.0
 Honduras,Americas,Latin America and the Caribbean,Central America,2012,13.9,12.0,12.0
 Honduras,Americas,Latin America and the Caribbean,Central America,2005,13.9,12.0,12.0
 Honduras,Americas,Latin America and the Caribbean,Central America,2006,13.9,12.0,12.0
-Honduras,Americas,Latin America and the Caribbean,Central America,1993,13.9,12.0,12.0
-Honduras,Americas,Latin America and the Caribbean,Central America,1994,13.9,12.0,12.0
-Honduras,Americas,Latin America and the Caribbean,Central America,1991,13.9,12.0,12.0
-Honduras,Americas,Latin America and the Caribbean,Central America,1992,13.9,12.0,12.0
-Hungary,Europe,Europe,Eastern Europe,1980,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1981,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1982,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1983,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1984,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1985,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1986,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1987,2.3,2.9,2.9
-Hungary,Europe,Europe,Eastern Europe,1988,2.3,2.9,2.9
 India,Asia,Asia,Southern Asia,2005,51.9,46.8,46.8
 India,Asia,Asia,Southern Asia,2006,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1998,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1999,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1996,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1997,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1992,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1993,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1991,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1992,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1988,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1989,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1990,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1974,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1975,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1976,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1977,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1978,51.9,46.8,46.8
-India,Asia,Asia,Southern Asia,1979,51.9,46.8,46.8
 Indonesia,Asia,Asia,South-Eastern Asia,2013,19.9,19.4,20.5
 Indonesia,Asia,Asia,South-Eastern Asia,2010,18.6,15.7,19.5
 Indonesia,Asia,Asia,South-Eastern Asia,2007,19.6,18.6,20.7
@@ -420,21 +222,11 @@ Indonesia,Asia,Asia,South-Eastern Asia,2003,23.1,20.6,25.5
 Indonesia,Asia,Asia,South-Eastern Asia,2002,23.0,20.7,25.2
 Indonesia,Asia,Asia,South-Eastern Asia,2001,22.5,21.4,23.6
 Indonesia,Asia,Asia,South-Eastern Asia,2000,23.2,21.1,25.2
-Indonesia,Asia,Asia,South-Eastern Asia,1999,22.8,21.1,24.4
-Indonesia,Asia,Asia,South-Eastern Asia,1998,25.8,22.8,28.6
-Indonesia,Asia,Asia,South-Eastern Asia,1995,28.9,25.2,29.5
-Indonesia,Asia,Asia,South-Eastern Asia,1992,29.8,26.0,33.6
-Indonesia,Asia,Asia,South-Eastern Asia,1989,31.0,25.4,36.4
-Indonesia,Asia,Asia,South-Eastern Asia,1987,35.9,19.0,22.7
 Iraq,Asia,Asia,Western Asia,2011,8.5,7.4,9.4
 Iraq,Asia,Asia,Western Asia,2006,7.1,6.6,7.7
 Iraq,Asia,Asia,Western Asia,2004,8.0,8.6,10.3
 Iraq,Asia,Asia,Western Asia,2003,10.1,8.6,10.3
 Iraq,Asia,Asia,Western Asia,2000,12.9,11.9,13.9
-Iraq,Asia,Asia,Western Asia,1991,10.4,8.6,10.3
-Italy,Europe,Europe,Southern Europe,1975,1.3,0.0,0.0
-Italy,Europe,Europe,Southern Europe,1976,1.3,0.0,0.0
-Italy,Europe,Europe,Southern Europe,1977,1.3,0.0,0.0
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2012,2.5,2.1,2.8
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2010,3.2,2.6,3.8
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2008,2.0,0.9,3.0
@@ -444,52 +236,21 @@ Jamaica,Americas,Latin America and the Caribbean,Caribbean,2004,3.1,2.4,3.9
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2002,2.6,2.6,2.5
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2001,4.1,2.7,5.5
 Jamaica,Americas,Latin America and the Caribbean,Caribbean,2000,3.8,3.0,4.5
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1999,2.3,2.5,2.2
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1998,3.4,2.6,4.1
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1997,3.5,3.2,3.7
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1996,5.6,4.5,6.7
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1995,4.0,2.9,5.0
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1994,4.5,3.5,5.4
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1993,8.9,2.8,3.8
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1992,7.0,2.8,3.8
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1991,4.0,2.8,3.8
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1989,6.3,2.8,3.8
-Jamaica,Americas,Latin America and the Caribbean,Caribbean,1978,8.1,2.8,3.8
 Japan,Asia,Asia,Eastern Asia,2010,3.4,3.3,3.5
-Japan,Asia,Asia,Eastern Asia,1978,3.3,3.5,3.5
-Japan,Asia,Asia,Eastern Asia,1979,3.3,3.5,3.5
-Japan,Asia,Asia,Eastern Asia,1980,3.3,3.5,3.5
-Japan,Asia,Asia,Eastern Asia,1981,3.3,3.5,3.5
 Jordan,Asia,Asia,Western Asia,2012,3.0,2.6,3.4
 Jordan,Asia,Asia,Western Asia,2009,1.9,2.1,1.6
 Jordan,Asia,Asia,Western Asia,2002,3.6,3.2,4.0
-Jordan,Asia,Asia,Western Asia,1997,3.8,3.8,3.9
-Jordan,Asia,Asia,Western Asia,1990,4.8,4.4,5.2
 Kazakhstan,Asia,Asia,Central Asia,2006,4.9,4.3,5.4
-Kazakhstan,Asia,Asia,Central Asia,1999,3.8,3.8,3.8
-Kazakhstan,Asia,Asia,Central Asia,1995,6.7,5.1,8.7
 Kazakhstan,Asia,Asia,Central Asia,2010,4.8,5.4,5.4
 Kazakhstan,Asia,Asia,Central Asia,2011,4.8,5.4,5.4
 Kenya,Africa,Africa,Eastern Africa,2014,11.0,15.4,19.7
 Kenya,Africa,Africa,Eastern Africa,2003,16.5,13.7,19.3
 Kenya,Africa,Africa,Eastern Africa,2000,17.5,15.2,19.6
-Kenya,Africa,Africa,Eastern Africa,1998,17.6,15.1,20.0
-Kenya,Africa,Africa,Eastern Africa,1994,19.8,15.4,19.7
-Kenya,Africa,Africa,Eastern Africa,1993,20.1,17.7,22.4
-Kenya,Africa,Africa,Eastern Africa,1982,17.2,15.4,19.7
 Kenya,Africa,Africa,Eastern Africa,2008,17.2,19.7,19.7
 Kenya,Africa,Africa,Eastern Africa,2009,17.2,19.7,19.7
 Kenya,Africa,Africa,Eastern Africa,2005,17.2,19.7,19.7
 Kenya,Africa,Africa,Eastern Africa,2006,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1985,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1986,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1987,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1988,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1989,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1978,17.2,19.7,19.7
-Kenya,Africa,Africa,Eastern Africa,1979,17.2,19.7,19.7
 Kiribati,Oceania,Oceania,Micronesia,2009,14.9,12.4,17.2
-Kiribati,Oceania,Oceania,Micronesia,1985,11.3,12.4,17.2
 Kuwait,Asia,Asia,Western Asia,2014,3.0,2.6,3.5
 Kuwait,Asia,Asia,Western Asia,2013,3.1,3.0,3.1
 Kuwait,Asia,Asia,Western Asia,2012,2.2,2.3,2.1
@@ -504,150 +265,76 @@ Kuwait,Asia,Asia,Western Asia,2004,2.8,2.7,2.9
 Kuwait,Asia,Asia,Western Asia,2003,2.3,1.9,2.8
 Kuwait,Asia,Asia,Western Asia,2002,2.1,1.5,2.6
 Kuwait,Asia,Asia,Western Asia,2001,2.2,1.9,2.5
-Kuwait,Asia,Asia,Western Asia,1996,2.9,2.6,2.6
-Kuwait,Asia,Asia,Western Asia,1997,2.9,2.6,2.6
-Kuwait,Asia,Asia,Western Asia,1994,2.9,2.6,2.6
-Kuwait,Asia,Asia,Western Asia,1995,2.9,2.6,2.6
-Kuwait,Asia,Asia,Western Asia,1983,2.9,2.6,2.6
-Kuwait,Asia,Asia,Western Asia,1984,2.9,2.6,2.6
 Kyrgyzstan,Asia,Asia,Central Asia,2014,2.8,4.1,5.5
 Kyrgyzstan,Asia,Asia,Central Asia,2012,3.7,3.7,3.7
 Kyrgyzstan,Asia,Asia,Central Asia,2009,4.7,4.7,4.7
-Kyrgyzstan,Asia,Asia,Central Asia,1997,8.2,5.6,10.7
-Kyrgyzstan,Asia,Asia,Central Asia,1993,4.4,4.1,5.5
 Kyrgyzstan,Asia,Asia,Central Asia,2005,4.4,5.5,5.5
 Kyrgyzstan,Asia,Asia,Central Asia,2006,4.4,5.5,5.5
 Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,2006,31.6,30.6,32.5
 Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,2000,36.4,34.5,38.4
-Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,1994,35.9,30.4,32.6
-Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,1993,39.8,30.4,32.6
 Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,2011,34.0,32.6,32.6
 Lao People's Democratic Republic,Asia,Asia,South-Eastern Asia,2012,34.0,32.6,32.6
 Lebanon,Asia,Asia,Western Asia,2004,4.2,2.8,5.4
-Lebanon,Asia,Asia,Western Asia,1996,3.5,3.3,3.8
 Lesotho,Africa,Africa,Southern Africa,2014,10.3,13.2,16.9
 Lesotho,Africa,Africa,Southern Africa,2000,15.0,12.6,17.4
-Lesotho,Africa,Africa,Southern Africa,1993,18.9,13.2,16.9
-Lesotho,Africa,Africa,Southern Africa,1992,13.8,13.2,16.9
-Lesotho,Africa,Africa,Southern Africa,1976,15.2,13.2,16.9
 Lesotho,Africa,Africa,Southern Africa,2009,14.8,16.9,16.9
 Lesotho,Africa,Africa,Southern Africa,2010,14.8,16.9,16.9
 Lesotho,Africa,Africa,Southern Africa,2004,14.8,16.9,16.9
 Lesotho,Africa,Africa,Southern Africa,2005,14.8,16.9,16.9
 Liberia,Africa,Africa,Western Africa,2013,15.3,13.5,16.8
-Liberia,Africa,Africa,Western Africa,1976,17.8,16.6,22.1
 Liberia,Africa,Africa,Western Africa,2006,19.1,22.1,22.1
 Liberia,Africa,Africa,Western Africa,2007,19.1,22.1,22.1
-Liberia,Africa,Africa,Western Africa,1999,19.1,22.1,22.1
 Liberia,Africa,Africa,Western Africa,2000,19.1,22.1,22.1
 Libya,Africa,Africa,Northern Africa,2007,5.6,4.8,6.3
-Libya,Africa,Africa,Northern Africa,1995,4.2,3.8,4.6
-Madagascar,Africa,Africa,Eastern Africa,1997,35.5,31.1,39.8
-Madagascar,Africa,Africa,Eastern Africa,1995,30.4,32.7,39.1
-Madagascar,Africa,Africa,Eastern Africa,1992,35.5,32.6,38.3
 Madagascar,Africa,Africa,Eastern Africa,2008,34.8,39.1,39.1
 Madagascar,Africa,Africa,Eastern Africa,2009,34.8,39.1,39.1
 Madagascar,Africa,Africa,Eastern Africa,2003,34.8,39.1,39.1
 Madagascar,Africa,Africa,Eastern Africa,2004,34.8,39.1,39.1
-Madagascar,Africa,Africa,Eastern Africa,1993,34.8,39.1,39.1
-Madagascar,Africa,Africa,Eastern Africa,1994,34.8,39.1,39.1
-Madagascar,Africa,Africa,Eastern Africa,1983,34.8,39.1,39.1
-Madagascar,Africa,Africa,Eastern Africa,1984,34.8,39.1,39.1
 Malawi,Africa,Africa,Eastern Africa,2010,13.8,12.6,15.2
 Malawi,Africa,Africa,Eastern Africa,2009,12.1,11.3,12.9
 Malawi,Africa,Africa,Eastern Africa,2006,15.5,13.9,17.2
 Malawi,Africa,Africa,Eastern Africa,2000,21.5,20.1,23.0
-Malawi,Africa,Africa,Eastern Africa,1995,26.5,16.2,19.1
-Malawi,Africa,Africa,Eastern Africa,1992,24.4,22.4,26.3
-Malawi,Africa,Africa,Eastern Africa,1982,19.6,16.2,19.1
-Malawi,Africa,Africa,Eastern Africa,1981,21.1,16.2,19.1
 Malawi,Africa,Africa,Eastern Africa,2013,19.6,19.1,19.1
 Malawi,Africa,Africa,Eastern Africa,2014,19.6,19.1,19.1
 Malawi,Africa,Africa,Eastern Africa,2004,19.6,19.1,19.1
 Malawi,Africa,Africa,Eastern Africa,2005,19.6,19.1,19.1
-Malawi,Africa,Africa,Eastern Africa,1997,19.6,19.1,19.1
-Malawi,Africa,Africa,Eastern Africa,1998,19.6,19.1,19.1
 Malaysia,Asia,Asia,South-Eastern Asia,2006,12.9,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1999,16.7,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1995,17.7,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1994,19.7,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1993,20.5,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1992,22.6,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1991,23.1,12.7,13.2
-Malaysia,Asia,Asia,South-Eastern Asia,1990,22.1,12.7,13.2
 Maldives,Asia,Asia,Southern Asia,2009,17.8,17.2,18.4
 Maldives,Asia,Asia,Southern Asia,2001,25.7,26.0,25.5
-Maldives,Asia,Asia,Southern Asia,1995,39.0,26.6,32.7
-Maldives,Asia,Asia,Southern Asia,1994,32.5,31.9,33.2
-Maldives,Asia,Asia,Southern Asia,1983,31.3,26.6,32.7
-Maldives,Asia,Asia,Southern Asia,1997,31.3,32.7,32.7
-Maldives,Asia,Asia,Southern Asia,1998,31.3,32.7,32.7
 Mali,Africa,Africa,Western Africa,2006,27.9,26.0,29.7
 Mali,Africa,Africa,Western Africa,2001,30.1,28.5,31.6
-Mali,Africa,Africa,Western Africa,1996,23.8,29.7,32.9
-Mali,Africa,Africa,Western Africa,1987,29.0,27.0,30.9
-Mali,Africa,Africa,Western Africa,1995,29.8,32.9,32.9
-Mali,Africa,Africa,Western Africa,1996,29.8,32.9,32.9
 Mauritania,Africa,Africa,Western Africa,2012,19.5,17.2,21.8
 Mauritania,Africa,Africa,Western Africa,2011,24.4,23.0,25.8
 Mauritania,Africa,Africa,Western Africa,2008,15.9,13.9,17.8
 Mauritania,Africa,Africa,Western Africa,2007,23.2,22.8,23.6
-Mauritania,Africa,Africa,Western Africa,1990,43.3,42.1,44.6
-Mauritania,Africa,Africa,Western Africa,1988,25.3,24.5,27.7
 Mauritania,Africa,Africa,Western Africa,2000,25.3,27.7,27.7
 Mauritania,Africa,Africa,Western Africa,2001,25.3,27.7,27.7
-Mauritania,Africa,Africa,Western Africa,1995,25.3,27.7,27.7
-Mauritania,Africa,Africa,Western Africa,1996,25.3,27.7,27.7
-Mauritius,Africa,Africa,Eastern Africa,1995,13.0,0.0,0.0
-Mauritius,Africa,Africa,Eastern Africa,1985,21.1,0.0,0.0
 Mexico,Americas,Latin America and the Caribbean,Central America,2006,3.4,2.6,4.3
-Mexico,Americas,Latin America and the Caribbean,Central America,1996,14.8,5.9,7.1
-Mexico,Americas,Latin America and the Caribbean,Central America,1989,13.9,13.1,14.6
-Mexico,Americas,Latin America and the Caribbean,Central America,1988,12.4,5.9,7.1
 Mexico,Americas,Latin America and the Caribbean,Central America,2011,8.9,7.1,7.1
 Mexico,Americas,Latin America and the Caribbean,Central America,2012,8.9,7.1,7.1
-Mexico,Americas,Latin America and the Caribbean,Central America,1998,8.9,7.1,7.1
-Mexico,Americas,Latin America and the Caribbean,Central America,1999,8.9,7.1,7.1
 Mongolia,Asia,Asia,Eastern Asia,2013,1.6,6.9,8.0
 Mongolia,Asia,Asia,Eastern Asia,2010,4.7,4.0,5.3
 Mongolia,Asia,Asia,Eastern Asia,2005,5.3,5.3,5.3
 Mongolia,Asia,Asia,Eastern Asia,2004,4.8,4.2,5.3
 Mongolia,Asia,Asia,Eastern Asia,2000,11.6,10.6,12.6
-Mongolia,Asia,Asia,Eastern Asia,1999,10.8,10.4,11.3
-Mongolia,Asia,Asia,Eastern Asia,1992,10.8,6.9,8.0
 Montenegro,Europe,Europe,Southern Europe,2013,1.0,0.9,1.1
 Montenegro,Europe,Europe,Southern Europe,2005,1.6,1.9,1.9
 Montenegro,Europe,Europe,Southern Europe,2006,1.6,1.9,1.9
-Morocco,Africa,Africa,Northern Africa,1992,8.1,7.7,8.4
-Morocco,Africa,Africa,Northern Africa,1987,12.7,13.0,12.5
 Morocco,Africa,Africa,Northern Africa,2010,8.3,8.5,8.5
 Morocco,Africa,Africa,Northern Africa,2011,8.3,8.5,8.5
 Morocco,Africa,Africa,Northern Africa,2003,8.3,8.5,8.5
 Morocco,Africa,Africa,Northern Africa,2004,8.3,8.5,8.5
-Morocco,Africa,Africa,Northern Africa,1996,8.3,8.5,8.5
-Morocco,Africa,Africa,Northern Africa,1997,8.3,8.5,8.5
 Mozambique,Africa,Africa,Eastern Africa,2011,15.6,13.6,17.5
 Mozambique,Africa,Africa,Eastern Africa,2008,18.3,16.0,20.6
 Mozambique,Africa,Africa,Eastern Africa,2003,21.2,19.9,22.6
-Mozambique,Africa,Africa,Eastern Africa,1997,28.1,25.3,30.8
-Mozambique,Africa,Africa,Eastern Africa,1995,23.9,18.7,22.9
 Mozambique,Africa,Africa,Eastern Africa,2000,21.7,22.9,22.9
 Mozambique,Africa,Africa,Eastern Africa,2001,21.7,22.9,22.9
 Myanmar,Asia,Asia,South-Eastern Asia,2003,29.6,28.2,31.1
 Myanmar,Asia,Asia,South-Eastern Asia,2000,30.1,28.5,31.7
-Myanmar,Asia,Asia,South-Eastern Asia,1997,25.0,26.3,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1995,38.7,26.3,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1994,27.7,26.3,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1991,32.8,26.3,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1990,28.8,26.3,28.6
 Myanmar,Asia,Asia,South-Eastern Asia,2009,29.9,28.6,28.6
 Myanmar,Asia,Asia,South-Eastern Asia,2010,29.9,28.6,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1983,29.9,28.6,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1984,29.9,28.6,28.6
-Myanmar,Asia,Asia,South-Eastern Asia,1985,29.9,28.6,28.6
 Namibia,Africa,Africa,Southern Africa,2013,13.2,11.3,15.1
 Namibia,Africa,Africa,Southern Africa,2000,20.3,19.4,21.2
-Namibia,Africa,Africa,Southern Africa,1992,21.5,19.7,23.4
 Namibia,Africa,Africa,Southern Africa,2006,18.1,19.5,19.5
 Namibia,Africa,Africa,Southern Africa,2007,18.1,19.5,19.5
 Nauru,Oceania,Oceania,Micronesia,2007,4.8,0.0,0.0
@@ -655,75 +342,34 @@ Nepal,Asia,Asia,Southern Asia,2014,30.1,42.0,42.2
 Nepal,Asia,Asia,Southern Asia,2011,29.1,28.4,29.8
 Nepal,Asia,Asia,Southern Asia,2006,38.8,39.8,37.7
 Nepal,Asia,Asia,Southern Asia,2001,43.0,43.7,42.3
-Nepal,Asia,Asia,Southern Asia,1996,42.9,42.5,43.3
-Nepal,Asia,Asia,Southern Asia,1995,44.1,42.0,42.2
-Nepal,Asia,Asia,Southern Asia,1975,60.8,60.3,61.3
-Nepal,Asia,Asia,Southern Asia,1997,40.9,42.2,42.2
-Nepal,Asia,Asia,Southern Asia,1998,40.9,42.2,42.2
-Netherlands,Europe,Europe,Western Europe,1980,1.6,1.1,2.2
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2001,7.8,7.1,8.4
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1998,10.0,8.9,11.2
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1993,9.6,8.9,10.2
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2006,8.1,8.6,8.6
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2007,8.1,8.6,8.6
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2003,8.1,8.6,8.6
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2004,8.1,8.6,8.6
 Nicaragua,Americas,Latin America and the Caribbean,Central America,2005,8.1,8.6,8.6
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1997,8.1,8.6,8.6
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1998,8.1,8.6,8.6
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1980,8.1,8.6,8.6
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1981,8.1,8.6,8.6
-Nicaragua,Americas,Latin America and the Caribbean,Central America,1982,8.1,8.6,8.6
 Niger,Africa,Africa,Western Africa,2012,37.9,37.1,38.7
 Niger,Africa,Africa,Western Africa,2006,39.9,37.5,42.1
 Niger,Africa,Africa,Western Africa,2000,43.6,42.4,44.7
-Niger,Africa,Africa,Western Africa,1998,45.0,43.9,46.0
-Niger,Africa,Africa,Western Africa,1992,41.0,39.7,42.1
-Niger,Africa,Africa,Western Africa,1985,45.0,40.1,42.7
 Nigeria,Africa,Africa,Western Africa,2014,19.8,18.3,21.3
 Nigeria,Africa,Africa,Western Africa,2013,31.0,29.0,32.9
 Nigeria,Africa,Africa,Western Africa,2011,24.4,24.1,24.6
 Nigeria,Africa,Africa,Western Africa,2008,26.7,24.8,28.6
 Nigeria,Africa,Africa,Western Africa,2007,25.7,24.2,27.2
 Nigeria,Africa,Africa,Western Africa,2003,27.2,25.4,29.1
-Nigeria,Africa,Africa,Western Africa,1999,27.3,25.6,28.7
-Nigeria,Africa,Africa,Western Africa,1993,35.1,25.6,28.7
-Nigeria,Africa,Africa,Western Africa,1990,35.1,33.3,37.0
-Nigeria,Africa,Africa,Western Africa,1983,28.0,25.6,28.7
 Oman,Asia,Asia,Western Asia,2014,9.7,8.4,11.5
 Oman,Asia,Asia,Western Asia,2009,8.6,8.3,8.9
-Oman,Asia,Asia,Western Asia,1999,11.3,10.9,11.7
-Oman,Asia,Asia,Western Asia,1991,21.4,8.4,11.5
-Oman,Asia,Asia,Western Asia,1994,12.2,11.5,11.5
-Oman,Asia,Asia,Western Asia,1995,12.2,11.5,11.5
 Pakistan,Asia,Asia,Southern Asia,2011,30.9,30.4,31.4
 Pakistan,Asia,Asia,Southern Asia,2001,31.3,31.0,31.6
-Pakistan,Asia,Asia,Southern Asia,1995,34.2,32.9,34.3
-Pakistan,Asia,Asia,Southern Asia,1977,48.3,32.9,34.3
 Pakistan,Asia,Asia,Southern Asia,2012,36.9,34.3,34.3
 Pakistan,Asia,Asia,Southern Asia,2013,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1990,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1991,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1992,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1993,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1994,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1990,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1991,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1985,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1986,36.9,34.3,34.3
-Pakistan,Asia,Asia,Southern Asia,1987,36.9,34.3,34.3
 Panama,Americas,Latin America and the Caribbean,Central America,2008,3.9,5.2,2.8
 Panama,Americas,Latin America and the Caribbean,Central America,2003,5.1,5.6,4.8
-Panama,Americas,Latin America and the Caribbean,Central America,1997,6.3,5.9,6.7
-Panama,Americas,Latin America and the Caribbean,Central America,1980,11.7,5.6,4.8
 Papua New Guinea,Oceania,Oceania,Melanesia,2005,18.1,14.6,21.0
 Papua New Guinea,Oceania,Oceania,Melanesia,2009,23.5,25.4,25.4
 Papua New Guinea,Oceania,Oceania,Melanesia,2010,23.5,25.4,25.4
 Papua New Guinea,Oceania,Oceania,Melanesia,2011,23.5,25.4,25.4
-Papua New Guinea,Oceania,Oceania,Melanesia,1982,23.5,25.4,25.4
-Papua New Guinea,Oceania,Oceania,Melanesia,1983,23.5,25.4,25.4
 Paraguay,Americas,Latin America and the Caribbean,South America,2005,3.4,2.8,2.5
-Paraguay,Americas,Latin America and the Caribbean,South America,1990,2.8,3.4,2.2
 Paraguay,Americas,Latin America and the Caribbean,South America,2011,2.9,2.5,2.5
 Paraguay,Americas,Latin America and the Caribbean,South America,2012,2.9,2.5,2.5
 Peru,Americas,Latin America and the Caribbean,South America,2014,3.1,2.9,3.3
@@ -733,34 +379,17 @@ Peru,Americas,Latin America and the Caribbean,South America,2010,4.3,3.9,4.8
 Peru,Americas,Latin America and the Caribbean,South America,2009,4.3,3.7,4.9
 Peru,Americas,Latin America and the Caribbean,South America,2005,5.4,4.8,6.0
 Peru,Americas,Latin America and the Caribbean,South America,2000,5.2,5.1,5.2
-Peru,Americas,Latin America and the Caribbean,South America,1996,5.7,4.9,6.4
-Peru,Americas,Latin America and the Caribbean,South America,1984,11.7,4.5,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2007,5.5,5.3,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2008,5.5,5.3,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2009,5.5,5.3,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2010,5.5,5.3,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2007,5.5,5.3,5.3
 Peru,Americas,Latin America and the Caribbean,South America,2008,5.5,5.3,5.3
-Peru,Americas,Latin America and the Caribbean,South America,1991,5.5,5.3,5.3
-Peru,Americas,Latin America and the Caribbean,South America,1992,5.5,5.3,5.3
 Philippines,Asia,Asia,South-Eastern Asia,2011,20.2,20.3,20.1
 Philippines,Asia,Asia,South-Eastern Asia,2008,20.7,20.6,20.9
 Philippines,Asia,Asia,South-Eastern Asia,2003,20.7,21.3,20.3
-Philippines,Asia,Asia,South-Eastern Asia,1998,28.3,20.7,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1993,26.3,20.7,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1992,29.8,20.7,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1987,29.3,20.7,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1982,29.6,20.7,20.2
 Philippines,Asia,Asia,South-Eastern Asia,2013,27.3,20.2,20.2
 Philippines,Asia,Asia,South-Eastern Asia,2014,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1989,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1990,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1971,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1972,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1973,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1974,27.3,20.2,20.2
-Philippines,Asia,Asia,South-Eastern Asia,1975,27.3,20.2,20.2
-Qatar,Asia,Asia,Western Asia,1995,4.8,0.0,0.0
 Republic of Korea,Asia,Asia,Eastern Asia,2003,0.9,0.6,1.2
 Republic of Korea,Asia,Asia,Eastern Asia,2008,0.8,1.1,1.1
 Republic of Korea,Asia,Asia,Eastern Asia,2009,0.8,1.1,1.1
@@ -771,104 +400,57 @@ Republic of Moldova,Europe,Europe,Eastern Europe,2005,3.2,3.4,3.0
 Romania,Europe,Europe,Eastern Europe,2002,3.5,2.9,4.0
 Romania,Europe,Europe,Eastern Europe,2001,3.8,3.0,4.5
 Romania,Europe,Europe,Eastern Europe,2000,3.7,2.8,4.5
-Romania,Europe,Europe,Eastern Europe,1999,3.4,2.8,4.0
-Romania,Europe,Europe,Eastern Europe,1991,5.0,2.9,4.2
 Rwanda,Africa,Africa,Eastern Africa,2005,18.0,17.2,18.9
 Rwanda,Africa,Africa,Eastern Africa,2000,22.2,18.3,22.4
-Rwanda,Africa,Africa,Eastern Africa,1996,24.2,17.3,19.9
-Rwanda,Africa,Africa,Eastern Africa,1992,24.3,23.2,25.3
-Rwanda,Africa,Africa,Eastern Africa,1976,24.7,17.3,19.9
 Rwanda,Africa,Africa,Eastern Africa,2010,18.2,19.9,19.9
 Rwanda,Africa,Africa,Eastern Africa,2011,18.2,19.9,19.9
 Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,2012,2.8,0.0,0.0
-Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,1976,12.1,0.0,0.0
-Samoa,Oceania,Oceania,Polynesia,1999,1.7,0.0,0.0
 Sao Tome and Principe,Africa,Africa,Middle Africa,2014,8.8,10.6,14.1
 Sao Tome and Principe,Africa,Africa,Middle Africa,2006,8.0,10.6,14.1
 Sao Tome and Principe,Africa,Africa,Middle Africa,2000,10.1,8.8,11.5
-Sao Tome and Principe,Africa,Africa,Middle Africa,1986,14.5,10.6,14.1
 Sao Tome and Principe,Africa,Africa,Middle Africa,2008,11.2,14.1,14.1
 Sao Tome and Principe,Africa,Africa,Middle Africa,2009,11.2,14.1,14.1
-Saudi Arabia,Asia,Asia,Western Asia,1994,13.5,4.5,6.1
 Saudi Arabia,Asia,Asia,Western Asia,2004,9.4,6.1,6.1
 Saudi Arabia,Asia,Asia,Western Asia,2005,9.4,6.1,6.1
 Senegal,Africa,Africa,Western Africa,2014,12.8,11.8,13.8
 Senegal,Africa,Africa,Western Africa,2012,14.4,13.2,15.5
 Senegal,Africa,Africa,Western Africa,2005,14.5,14.6,14.4
 Senegal,Africa,Africa,Western Africa,2000,20.3,19.2,21.5
-Senegal,Africa,Africa,Western Africa,1996,19.6,16.1,18.2
-Senegal,Africa,Africa,Western Africa,1986,17.3,15.3,19.3
 Senegal,Africa,Africa,Western Africa,2012,17.6,18.2,18.2
 Senegal,Africa,Africa,Western Africa,2013,17.6,18.2,18.2
 Senegal,Africa,Africa,Western Africa,2010,17.6,18.2,18.2
 Senegal,Africa,Africa,Western Africa,2011,17.6,18.2,18.2
-Senegal,Africa,Africa,Western Africa,1992,17.6,18.2,18.2
-Senegal,Africa,Africa,Western Africa,1993,17.6,18.2,18.2
-Senegal,Africa,Africa,Western Africa,1991,17.6,18.2,18.2
-Senegal,Africa,Africa,Western Africa,1992,17.6,18.2,18.2
 Serbia,Europe,Europe,Southern Europe,2014,1.8,1.5,1.9
 Serbia,Europe,Europe,Southern Europe,2010,1.6,1.7,1.5
 Serbia,Europe,Europe,Southern Europe,2005,1.7,1.9,1.9
 Serbia,Europe,Europe,Southern Europe,2006,1.7,1.9,1.9
 Seychelles,Africa,Africa,Eastern Africa,2012,3.6,0.0,0.0
-Seychelles,Africa,Africa,Eastern Africa,1987,4.3,0.0,0.0
-Seychelles,Africa,Africa,Eastern Africa,1988,4.3,0.0,0.0
 Sierra Leone,Africa,Africa,Western Africa,2013,18.1,17.1,19.2
 Sierra Leone,Africa,Africa,Western Africa,2010,19.9,18.1,21.7
 Sierra Leone,Africa,Africa,Western Africa,2008,21.3,18.5,24.2
 Sierra Leone,Africa,Africa,Western Africa,2005,28.3,26.0,30.7
 Sierra Leone,Africa,Africa,Western Africa,2000,24.7,21.1,28.2
-Sierra Leone,Africa,Africa,Western Africa,1990,25.4,16.8,20.9
-Sierra Leone,Africa,Africa,Western Africa,1989,23.7,16.8,20.9
-Sierra Leone,Africa,Africa,Western Africa,1977,20.7,20.9,20.9
-Sierra Leone,Africa,Africa,Western Africa,1978,20.7,20.9,20.9
-Sierra Leone,Africa,Africa,Western Africa,1974,20.7,20.9,20.9
-Sierra Leone,Africa,Africa,Western Africa,1975,20.7,20.9,20.9
 Singapore,Asia,Asia,South-Eastern Asia,2000,3.3,2.9,3.6
-Singapore,Asia,Asia,South-Eastern Asia,1970,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1971,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1972,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1973,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1974,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1975,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1976,7.8,8.6,8.6
-Singapore,Asia,Asia,South-Eastern Asia,1977,7.8,8.6,8.6
-Solomon Islands,Oceania,Oceania,Melanesia,1989,16.3,14.2,18.1
-Solomon Islands,Oceania,Oceania,Melanesia,1970,17.7,15.5,19.5
 Solomon Islands,Oceania,Oceania,Melanesia,2006,15.2,18.8,18.8
 Solomon Islands,Oceania,Oceania,Melanesia,2007,15.2,18.8,18.8
 Somalia,Africa,Africa,Eastern Africa,2009,23.0,21.3,24.6
 Somalia,Africa,Africa,Eastern Africa,2006,32.8,31.3,34.2
 Somalia,Africa,Africa,Eastern Africa,2000,22.8,26.3,29.4
 South Africa,Africa,Africa,Southern Africa,2008,8.7,9.6,13.6
-South Africa,Africa,Africa,Southern Africa,1999,10.1,9.6,13.6
 South Africa,Africa,Africa,Southern Africa,2003,9.6,13.6,13.6
 South Africa,Africa,Africa,Southern Africa,2004,9.6,13.6,13.6
-South Africa,Africa,Africa,Southern Africa,1994,9.6,13.6,13.6
-South Africa,Africa,Africa,Southern Africa,1995,9.6,13.6,13.6
-South Africa,Africa,Africa,Southern Africa,1993,9.6,13.6,13.6
-South Africa,Africa,Africa,Southern Africa,1994,9.6,13.6,13.6
 South Sudan,Africa,Africa,Eastern Africa,2010,27.6,24.5,30.4
 South Sudan,Africa,Africa,Eastern Africa,2006,32.5,28.7,35.9
 Sri Lanka,Asia,Asia,Southern Asia,2012,26.3,26.8,25.7
 Sri Lanka,Asia,Asia,Southern Asia,2009,21.6,21.6,21.6
 Sri Lanka,Asia,Asia,Southern Asia,2000,22.8,23.8,22.0
-Sri Lanka,Asia,Asia,Southern Asia,1995,29.3,24.0,24.4
-Sri Lanka,Asia,Asia,Southern Asia,1993,33.8,24.0,24.4
-Sri Lanka,Asia,Asia,Southern Asia,1987,29.3,27.3,31.0
 Sri Lanka,Asia,Asia,Southern Asia,2006,29.2,24.4,24.4
 Sri Lanka,Asia,Asia,Southern Asia,2007,29.2,24.4,24.4
-Sri Lanka,Asia,Asia,Southern Asia,1977,29.2,24.4,24.4
-Sri Lanka,Asia,Asia,Southern Asia,1978,29.2,24.4,24.4
 Sudan,Africa,Africa,Northern Africa,2014,33.0,24.5,27.2
 Sudan,Africa,Africa,Northern Africa,2006,29.4,27.9,30.8
 Sudan,Africa,Africa,Northern Africa,2000,38.4,36.7,40.2
-Sudan,Africa,Africa,Northern Africa,1995,26.6,24.5,27.2
-Sudan,Africa,Africa,Northern Africa,1992,26.6,27.2,27.2
-Sudan,Africa,Africa,Northern Africa,1993,26.6,27.2,27.2
 Suriname,Americas,Latin America and the Caribbean,South America,2010,5.8,5.4,6.2
 Suriname,Americas,Latin America and the Caribbean,South America,2006,7.5,7.0,8.0
-Suriname,Americas,Latin America and the Caribbean,South America,1999,8.2,8.9,8.9
 Suriname,Americas,Latin America and the Caribbean,South America,2000,8.2,8.9,8.9
 Swaziland,Africa,Africa,Southern Africa,2014,5.8,6.5,7.5
 Swaziland,Africa,Africa,Southern Africa,2010,5.8,5.0,6.7
@@ -876,8 +458,6 @@ Swaziland,Africa,Africa,Southern Africa,2008,7.3,6.5,7.5
 Swaziland,Africa,Africa,Southern Africa,2000,9.1,8.7,9.5
 Swaziland,Africa,Africa,Southern Africa,2006,7.1,7.5,7.5
 Swaziland,Africa,Africa,Southern Africa,2007,7.1,7.5,7.5
-Swaziland,Africa,Africa,Southern Africa,1983,7.1,7.5,7.5
-Swaziland,Africa,Africa,Southern Africa,1984,7.1,7.5,7.5
 Tajikistan,Asia,Asia,Central Asia,2012,13.3,13.1,13.6
 Tajikistan,Asia,Asia,Central Asia,2009,8.3,7.7,9.0
 Tajikistan,Asia,Asia,Central Asia,2007,15.0,14.0,15.9
@@ -886,11 +466,7 @@ Tajikistan,Asia,Asia,Central Asia,2003,12.9,12.0,13.7
 Tajikistan,Asia,Asia,Central Asia,2002,12.9,12.0,13.7
 Tajikistan,Asia,Asia,Central Asia,2001,12.9,12.0,13.7
 Tajikistan,Asia,Asia,Central Asia,2000,12.9,12.0,13.7
-Tajikistan,Asia,Asia,Central Asia,1999,12.9,12.0,13.7
 Thailand,Asia,Asia,South-Eastern Asia,2012,9.2,8.4,9.9
-Thailand,Asia,Asia,South-Eastern Asia,1995,15.4,10.5,11.8
-Thailand,Asia,Asia,South-Eastern Asia,1993,16.3,10.5,11.8
-Thailand,Asia,Asia,South-Eastern Asia,1987,17.4,16.0,18.7
 Thailand,Asia,Asia,South-Eastern Asia,2005,13.1,11.8,11.8
 Thailand,Asia,Asia,South-Eastern Asia,2006,13.1,11.8,11.8
 Timor-Leste,Asia,Asia,South-Eastern Asia,2013,37.7,36.3,39.0
@@ -903,34 +479,15 @@ Timor-Leste,Asia,Asia,South-Eastern Asia,2008,42.7,45.3,45.3
 Togo,Africa,Africa,Western Africa,2010,16.5,14.4,18.4
 Togo,Africa,Africa,Western Africa,2008,20.5,20.5,20.5
 Togo,Africa,Africa,Western Africa,2006,22.3,21.0,23.5
-Togo,Africa,Africa,Western Africa,1998,23.2,20.9,25.5
-Togo,Africa,Africa,Western Africa,1996,16.7,18.6,21.3
-Togo,Africa,Africa,Western Africa,1988,21.4,19.7,22.6
 Togo,Africa,Africa,Western Africa,2013,18.1,21.3,21.3
 Togo,Africa,Africa,Western Africa,2014,18.1,21.3,21.3
-Togo,Africa,Africa,Western Africa,1976,18.1,21.3,21.3
-Togo,Africa,Africa,Western Africa,1977,18.1,21.3,21.3
 Tonga,Oceania,Oceania,Polynesia,2012,1.9,0.0,2.1
-Tonga,Oceania,Oceania,Polynesia,1986,1.9,0.0,1.4
 Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,2000,4.4,4.3,4.4
-Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,1987,4.7,4.7,4.7
-Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,1976,14.3,4.5,4.6
 Tunisia,Africa,Africa,Northern Africa,2006,3.3,2.9,3.7
 Tunisia,Africa,Africa,Northern Africa,2000,3.5,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1988,8.5,7.7,9.3
 Tunisia,Africa,Africa,Northern Africa,2011,6.6,7.9,7.9
 Tunisia,Africa,Africa,Northern Africa,2012,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1996,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1997,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1994,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1995,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1973,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1974,6.6,7.9,7.9
-Tunisia,Africa,Africa,Northern Africa,1975,6.6,7.9,7.9
 Turkey,Asia,Asia,Western Asia,2008,1.7,5.2,5.3
-Turkey,Asia,Asia,Western Asia,1998,7.0,7.1,7.0
-Turkey,Asia,Asia,Western Asia,1995,9.0,5.2,5.3
-Turkey,Asia,Asia,Western Asia,1993,8.7,7.9,9.5
 Turkey,Asia,Asia,Western Asia,2013,5.3,5.3,5.3
 Turkey,Asia,Asia,Western Asia,2014,5.3,5.3,5.3
 Turkey,Asia,Asia,Western Asia,2003,5.3,5.3,5.3
@@ -940,15 +497,10 @@ Turkmenistan,Asia,Asia,Central Asia,2000,10.5,7.4,3.2
 Tuvalu,Oceania,Oceania,Polynesia,2007,1.6,0.0,0.0
 Uganda,Africa,Africa,Eastern Africa,2011,14.1,12.8,15.4
 Uganda,Africa,Africa,Eastern Africa,2006,16.4,14.6,18.2
-Uganda,Africa,Africa,Eastern Africa,1995,21.5,19.4,23.8
 Uganda,Africa,Africa,Eastern Africa,2000,18.1,19.8,19.8
 Uganda,Africa,Africa,Eastern Africa,2001,18.1,19.8,19.8
-Uganda,Africa,Africa,Eastern Africa,1988,18.1,19.8,19.8
-Uganda,Africa,Africa,Eastern Africa,1989,18.1,19.8,19.8
 Ukraine,Europe,Europe,Eastern Europe,2002,0.9,3.5,4.8
 Ukraine,Europe,Europe,Eastern Europe,2000,4.1,3.5,4.8
-United Republic of Tanzania,Africa,Africa,Eastern Africa,1999,25.3,26.8,23.8
-United Republic of Tanzania,Africa,Africa,Eastern Africa,1996,26.9,25.3,28.4
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2010,20.0,20.9,20.9
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2011,20.0,20.9,20.9
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2009,20.0,20.9,20.9
@@ -957,8 +509,6 @@ United Republic of Tanzania,Africa,Africa,Eastern Africa,2008,20.0,20.9,20.9
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2009,20.0,20.9,20.9
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2004,20.0,20.9,20.9
 United Republic of Tanzania,Africa,Africa,Eastern Africa,2005,20.0,20.9,20.9
-United Republic of Tanzania,Africa,Africa,Eastern Africa,1991,20.0,20.9,20.9
-United Republic of Tanzania,Africa,Africa,Eastern Africa,1992,20.0,20.9,20.9
 United States of America,Americas,Northern America,Northern America,2011,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2012,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2007,1.1,1.1,1.1
@@ -969,50 +519,23 @@ United States of America,Americas,Northern America,Northern America,2003,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2004,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2005,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2006,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1999,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2000,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2001,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2002,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2003,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2004,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1999,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2000,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2001,1.1,1.1,1.1
 United States of America,Americas,Northern America,Northern America,2002,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1988,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1989,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1990,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1991,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1992,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1993,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1994,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1963,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1964,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1965,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1966,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1967,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1968,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1969,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1970,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1971,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1972,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1973,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1974,1.1,1.1,1.1
-United States of America,Americas,Northern America,Northern America,1975,1.1,1.1,1.1
 Uruguay,Americas,Latin America and the Caribbean,South America,2011,4.5,4.2,4.8
 Uruguay,Americas,Latin America and the Caribbean,South America,2007,4.7,3.2,6.1
 Uruguay,Americas,Latin America and the Caribbean,South America,2004,6.0,5.3,6.7
 Uruguay,Americas,Latin America and the Caribbean,South America,2003,5.7,4.9,6.5
 Uruguay,Americas,Latin America and the Caribbean,South America,2002,5.4,4.9,5.9
-Uruguay,Americas,Latin America and the Caribbean,South America,1999,5.2,4.2,6.1
-Uruguay,Americas,Latin America and the Caribbean,South America,1987,6.5,4.5,6.0
 Uzbekistan,Asia,Asia,Central Asia,2006,4.4,4.3,4.6
 Uzbekistan,Asia,Asia,Central Asia,2002,7.1,6.2,7.8
-Uzbekistan,Asia,Asia,Central Asia,1996,15.3,13.7,16.8
 Vanuatu,Oceania,Oceania,Melanesia,2013,10.7,9.0,14.1
 Vanuatu,Oceania,Oceania,Melanesia,2007,11.7,9.0,14.1
-Vanuatu,Oceania,Oceania,Melanesia,1996,10.6,9.0,14.1
-Vanuatu,Oceania,Oceania,Melanesia,1983,17.3,9.0,14.1
 Viet Nam,Asia,Asia,South-Eastern Asia,2013,12.1,21.9,22.7
 Viet Nam,Asia,Asia,South-Eastern Asia,2008,20.2,19.9,20.5
 Viet Nam,Asia,Asia,South-Eastern Asia,2007,22.6,22.0,23.2
@@ -1022,43 +545,20 @@ Viet Nam,Asia,Asia,South-Eastern Asia,2004,23.8,23.5,24.1
 Viet Nam,Asia,Asia,South-Eastern Asia,2003,24.6,24.2,25.1
 Viet Nam,Asia,Asia,South-Eastern Asia,2002,23.4,23.0,23.9
 Viet Nam,Asia,Asia,South-Eastern Asia,2000,28.9,27.1,29.1
-Viet Nam,Asia,Asia,South-Eastern Asia,1999,31.9,30.3,31.9
-Viet Nam,Asia,Asia,South-Eastern Asia,1998,35.8,21.9,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1994,40.6,21.9,22.7
 Viet Nam,Asia,Asia,South-Eastern Asia,2010,22.6,22.7,22.7
 Viet Nam,Asia,Asia,South-Eastern Asia,2011,22.6,22.7,22.7
 Viet Nam,Asia,Asia,South-Eastern Asia,2009,22.6,22.7,22.7
 Viet Nam,Asia,Asia,South-Eastern Asia,2010,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1992,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1993,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1987,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1988,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1989,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1983,22.6,22.7,22.7
-Viet Nam,Asia,Asia,South-Eastern Asia,1984,22.6,22.7,22.7
 Yemen,Asia,Asia,Western Asia,2013,39.9,39.0,40.9
 Yemen,Asia,Asia,Western Asia,2011,35.5,33.7,37.1
 Yemen,Asia,Asia,Western Asia,2003,43.1,41.8,44.3
-Yemen,Asia,Asia,Western Asia,1997,47.6,45.8,49.2
-Yemen,Asia,Asia,Western Asia,1996,34.2,37.6,40.5
-Yemen,Asia,Asia,Western Asia,1991,38.3,40.5,40.5
-Yemen,Asia,Asia,Western Asia,1992,38.3,40.5,40.5
 Zambia,Africa,Africa,Eastern Africa,2007,14.9,13.0,16.9
-Zambia,Africa,Africa,Eastern Africa,1999,19.6,16.7,22.2
-Zambia,Africa,Africa,Eastern Africa,1995,18.9,17.3,20.5
-Zambia,Africa,Africa,Eastern Africa,1992,21.2,20.1,22.4
 Zambia,Africa,Africa,Eastern Africa,2013,18.9,20.5,20.5
 Zambia,Africa,Africa,Eastern Africa,2014,18.9,20.5,20.5
 Zambia,Africa,Africa,Eastern Africa,2001,18.9,20.5,20.5
 Zambia,Africa,Africa,Eastern Africa,2002,18.9,20.5,20.5
-Zambia,Africa,Africa,Eastern Africa,1996,18.9,20.5,20.5
-Zambia,Africa,Africa,Eastern Africa,1997,18.9,20.5,20.5
 Zimbabwe,Africa,Africa,Eastern Africa,2014,11.2,9.8,12.5
 Zimbabwe,Africa,Africa,Eastern Africa,2009,12.7,11.3,14.1
-Zimbabwe,Africa,Africa,Eastern Africa,1999,11.5,10.4,12.6
-Zimbabwe,Africa,Africa,Eastern Africa,1994,11.7,9.8,13.6
-Zimbabwe,Africa,Africa,Eastern Africa,1988,8.0,7.2,8.7
-Zimbabwe,Africa,Africa,Eastern Africa,1987,10.5,10.0,12.6
 Zimbabwe,Africa,Africa,Eastern Africa,2010,11.2,12.6,12.6
 Zimbabwe,Africa,Africa,Eastern Africa,2011,11.2,12.6,12.6
 Zimbabwe,Africa,Africa,Eastern Africa,2005,11.2,12.6,12.6
