@@ -27,8 +27,8 @@ def write_csv(table):
 	    spamwriter = csv.writer(csvfile, delimiter=",", escapechar=";")
 	    for i in range(1, len(table)):
 	    	if i == 1:
-	    		spamwriter.writerow(["Country"] + ["continent"] + ["regionUN"] + ["subregionUN"] + ["Year"] + ["Children aged < 5 years underweight (%) BOTH"] + ["Children aged < 5 years underweight (%) FEMALE"] + ["Children aged < 5 years underweight (%) MALE"])
-	    	elif len(table[i]) == 17:
+	    		spamwriter.writerow(["Country"] + ["continent"] + ["regionUN"] + ["subregionUN"] + ["Year"] + ["Both Sexes"] + ["Female"] + ["Male"])
+	    	elif len(table[i]) == 17 and (int(table[i][1]))>1999:
 	    		spamwriter.writerow([table[i][0]] + [table[i][14]] + [table[i][15]] + [table[i][16]] + [table[i][1]] +  [table[i][5]] + [table[i][6]] + [table[i][7]])
 
 def format_table(table):
