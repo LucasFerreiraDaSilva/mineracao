@@ -1,4 +1,15 @@
 #!/usr/bin/python3
+
+#########################################################################
+#
+# Escrito por: Iago Corrêa em icorrea@inf.ufsm.br e
+# e Lucas Ferreira da Silva em lferreira@inf.ufsm.br
+#
+#
+########################################################################
+
+
+
 import csv
 
 table = []; column = 2; summ = 0; count = 0; Country = []; rCountry = []; country_region = []
